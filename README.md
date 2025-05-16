@@ -1,1 +1,4 @@
-https://devpost.com/software/studymuse
+At StudyMuse, we understand that students are often overwhelmed by the sheer volume of text in their notes—as a result, finding specific information can be time-consuming. To address this, we've created a platform where students can elevate their notes to a new level of "smart" interactivity through retrieval augmented generation (RAG). Our website invites students to upload their study materials and engage with an interactive study companion, making learning more dynamic, efficient, and enjoyable.
+
+Upon logging into StudyMuse, the student will be guided to a page where they can upload notes of all varieties. They can then pose questions to which StudyMuse responds with relevant information extracted directly from all their uploaded notes via RAG, creating a tailored and responsive study session.
+
